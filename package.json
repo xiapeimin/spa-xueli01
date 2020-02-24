@@ -1,0 +1,23 @@
+{
+  "name": "spa-xueli01",
+  "version": "1.0.0",
+  "description": "这是一个 GitBook 自动化构建的 Demo。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiapeimin/spa-xueli01.git"
+  },
+  "keywords": [],
+  "author": "wangding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiapeimin/spa-xueli01/issues"
+  },
+  "homepage": "https://github.com/xiapeimin/spa-xueli01#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
